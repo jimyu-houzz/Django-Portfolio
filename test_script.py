@@ -35,4 +35,5 @@ def install_project():
     p3.save()
 
 if __name__ == '_main__':
+    pass
     # install_project()
